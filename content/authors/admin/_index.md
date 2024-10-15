@@ -23,9 +23,9 @@ highlight_name: true
 role: Human-Computer Interaction Designer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# organizations:
+  # - name: OpenAI
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +183,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiyao Liu is a multidisciplinary professional with expertise in Human-Computer Interaction (HCI), Artificial Intelligence (AI), and innovative design. She holds a Master’s in Design Innovation and Interaction Design from the Glasgow School of Art and dual Bachelor’s degrees in Education and Finance from East China Normal University. Jiyao is passionate about creating user-centered experiences that seamlessly integrate technology with human interaction. Her skills span UX/UI design, wearable technology, AI-driven products, and digital media.
+Currently, Jiyao is the course responsible of the Human-Computer Interaction program at ACG International Art Education. Previously, she served as an AI Product Manager at tech company, leading the development of AI-powered visual recognition systems, personalized recommendations, intelligent voice interactions, and robotic technologies. Jiyao is also experienced in children's AI education and interactive design, having developed in-car smart dialogue systems for kids, AI curricula, and motion-sensing games.
+Her design philosophy emphasizes the intersection of technology, design, and social impact. Jiyao's passion spans areas such as interactive technologies for health and wellness, tools for enhancing accessibility, products for long-term health management, public art with a social message, and sustainable solutions for modern living. Her work prioritizes inclusivity, healthy living, and interdisciplinary collaboration, aiming to solve real-world challenges and promote intelligent, human-centered public spaces.
+
